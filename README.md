@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a **Full-Stack Developer** at **[<img src="https://pacificmedicaltraining.com/images/pluslogo.svg" width="15px" > Pacific Medical Training](https://pacificmedicaltraining.com/)** and **[<img src="https://www.acls.net/images/acls-logo.svg" width="50px" > ACLS Training Center](https://www.acls.net/)**.
+- 🔭 Currently working as a **Full-Stack Developer** at **[<img src="https://pacificmedicaltraining.com/images/logo-pmt.svg" width="15px" > Pacific Medical Training](https://pacificmedicaltraining.com/)** and **[<img src="https://www.acls.net/images/acls-logo.svg" width="50px" > ACLS Training Center](https://www.acls.net/)**.
 - 🛠 Specializing in **Moodle plugin development**, **e-learning platforms**, and **LMS automation**.
 - 🎨 Skilled in creative UI/UX design, graphics, and illustration.
 - 👯 Open to **remote work opportunities** on impactful projects.
