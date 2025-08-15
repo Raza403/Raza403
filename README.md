@@ -23,7 +23,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/php-logo.png" height="55px"></a>
     <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0769AD/jquery.png" height="40px"></a>
-    <a href="https://moodle.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Moodle-logo.svg" height="40px"></a>
+    <a href="https://moodle.org/" target="_blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" height="40px"></a>
     <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
